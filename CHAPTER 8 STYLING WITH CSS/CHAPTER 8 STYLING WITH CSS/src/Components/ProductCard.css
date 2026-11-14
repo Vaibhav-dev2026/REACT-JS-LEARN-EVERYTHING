@@ -1,0 +1,24 @@
+/* 🟢 MINI REAL-WORLD PROJECT */
+/* 🎯 Project: Product Card (Styled) */
+
+
+.card {
+  border: 3px solid #ccc;
+  padding: 15px;
+  width: 250px;
+  border-radius: 10px;
+}
+
+.card button {
+  background: black;
+  color: white;
+  padding: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .card {
+    width: 100%;
+  }
+}

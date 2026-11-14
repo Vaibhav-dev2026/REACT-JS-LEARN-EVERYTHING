@@ -1,0 +1,18 @@
+.cards {
+  display: flex;
+  gap: 20px;
+}
+
+.card {
+  flex: 1;
+  padding: 20px;
+  border: 2px solid #ccc;
+  text-align: center;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .cards {
+    flex-direction: column;
+  }
+}

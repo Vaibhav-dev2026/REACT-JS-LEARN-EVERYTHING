@@ -1,0 +1,19 @@
+/* 🔹 4️⃣ CSS Modules (Professional Level) */
+
+
+/* file name */
+/* Button.module.css
+ */
+
+.btn {
+  background: blue;
+  color: white;
+  padding: 10px;
+}
+
+
+/* // 🔥 Benefits
+
+// ✔ No class conflict
+// ✔ Scoped CSS
+// ✔ Industry standard */

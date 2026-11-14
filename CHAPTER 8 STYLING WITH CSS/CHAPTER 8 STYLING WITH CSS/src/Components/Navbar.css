@@ -1,0 +1,17 @@
+/* 🔹 2️⃣ Component Level CSS (Best Practice)
+📁 Structure
+components/
+ ├─ Navbar.jsx
+ ├─ Navbar.css */
+
+ /* ✅ Industry me MOST USED
+
+✔ Clean
+✔ Component based
+✔ Easy to maintain */
+
+.navbar {
+  color: white;
+  background: black;
+  padding: 10px;
+}

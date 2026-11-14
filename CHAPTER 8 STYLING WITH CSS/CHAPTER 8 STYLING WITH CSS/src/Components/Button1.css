@@ -1,0 +1,22 @@
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    /* display: none; */
+    transition: 0.3s;
+
+}
+.btn:hover {
+  background: orange;
+}
+
+/* 👉 Hover pe color change = real website feel
+
+5️⃣ Active / Inactive Class
+🧠 Concept
+
+CSS classes conditionally lagti hain
+
+Real apps: login status, availability */

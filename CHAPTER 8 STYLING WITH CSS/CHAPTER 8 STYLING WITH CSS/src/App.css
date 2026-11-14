@@ -1,0 +1,32 @@
+/* 1️⃣ Normal CSS (Global CSS) – BASIC */
+
+/* src/
+ ├─ App.jsx
+ ├─ App.css */
+
+
+/* .title {
+  color: red;
+  text-align: center;
+} */
+
+
+/* ✅ Use when:
+
+✔ Small projects
+✔ Common styles (body, h1, button)
+
+❌ Problem:
+
+CSS global hoti hai
+
+Class name clash ho sakta hai */
+
+
+/* .online {
+  color: green;
+}
+.offline {
+  color: red;
+} */
+
